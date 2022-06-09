@@ -1,0 +1,22 @@
+{
+  "namespace": "SVSTestModule",
+  "references": [
+    "TestModule"
+  ],
+  "items": {
+    "includes": [
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "care include",
+        "path": "/sitecore/content/myproject/care",
+        "scope": "itemAndDescendants",
+        "rules": [
+          {
+            "path": "/light",
+            "scope": "ignored"
+          }
+        ]
+      }
+    ]
+  }
+}

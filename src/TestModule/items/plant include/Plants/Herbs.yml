@@ -1,0 +1,26 @@
+﻿---
+ID: "9a913281-5ec5-4e76-bea3-dedc4ddb069e"
+Parent: "73a8df99-2e37-41b1-8d82-13bce1e4371c"
+Template: "85cd20bd-9e45-40d1-bb24-9b165667ea7a"
+Path: /sitecore/content/MyProject/Plants/Herbs
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220524T125658Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70ff9d5c-fd27-4574-8617-64c022d33e5a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220525T100502Z
+    - ID: "e5365688-b6bb-41ab-aafb-3215d68507d8"
+      Hint: Title
+      Value: "Herbs we love to eat! "

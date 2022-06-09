@@ -1,0 +1,17 @@
+{
+  "namespace": "TestModule",
+  "items": {
+    "includes": [
+      {
+        "name": "plant include",
+        "path": "/sitecore/content/myproject/plants",
+        "rules": [
+          {
+            "path": "/flowers",
+            "scope": "ignored"
+          }
+        ]
+      }
+    ]
+  }
+}
